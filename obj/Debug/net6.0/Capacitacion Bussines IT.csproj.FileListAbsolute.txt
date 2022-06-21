@@ -1,0 +1,15 @@
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\obj\Debug\net6.0\Capacitacion Bussines IT.csproj.AssemblyReference.cache
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\obj\Debug\net6.0\Capacitacion Bussines IT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\obj\Debug\net6.0\Capacitacion Bussines IT.AssemblyInfoInputs.cache
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\obj\Debug\net6.0\Capacitacion Bussines IT.AssemblyInfo.cs
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\obj\Debug\net6.0\Capacitacion Bussines IT.csproj.CoreCompileInputs.cache
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\bin\Debug\net6.0\Capacitacion Bussines IT.exe
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\bin\Debug\net6.0\Capacitacion Bussines IT.deps.json
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\bin\Debug\net6.0\Capacitacion Bussines IT.runtimeconfig.json
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\bin\Debug\net6.0\Capacitacion Bussines IT.dll
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\bin\Debug\net6.0\Capacitacion Bussines IT.pdb
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\obj\Debug\net6.0\Capacitacion Bussines IT.dll
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\obj\Debug\net6.0\refint\Capacitacion Bussines IT.dll
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\obj\Debug\net6.0\Capacitacion Bussines IT.pdb
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\obj\Debug\net6.0\Capacitacion Bussines IT.genruntimeconfig.cache
+C:\Users\ByronDaniel\Documents\BP\Capacitacion Bussines IT\obj\Debug\net6.0\ref\Capacitacion Bussines IT.dll
